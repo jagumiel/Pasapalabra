@@ -1,0 +1,1742 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+ <diccionario>
+    <listadefiniciones>
+        <letra>A</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Arpa</termino>
+                <definicion>Instrumento musical de forma triangular, con cuerdas colocadas verticalmente y que se tocan con ambas manos.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Acero</termino>
+                <definicion>Aleación de hierro y carbono, en diferentes proporciones, que, según su tratamiento, adquiere especial elasticidad, dureza o resistencia.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Adobe</termino>
+                <definicion>Masa de barro mezclado a veces con paja, moldeada en forma de ladrillo y secada al aire, que se emplea en la construcción de paredes o muros.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Arroz</termino>
+                <definicion>Planta anual propia de terrenos muy húmedos, cuyo fruto es un grano oval rico en almidón.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Absenta</termino>
+                <definicion>Bebida alcoholica apodada "El hada verde"</definicion>
+            </palabra>
+            <palabra>
+                <termino>Atajo</termino>
+                <definicion>Senda o lugar por donde se abrevia el camino.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Agenda</termino>
+                <definicion>Libro o cuaderno en que se apunta, para no olvidarlo, aquello que se ha de hacer.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Alejar</termino>
+                <definicion>Llevar a alguien o algo lejos.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Aburrir</termino>
+                <definicion>Molestar, cansar, fastidiar.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Acuario</termino>
+                <definicion>Depósito de agua donde se tienen vivos animales o vegetales acuáticos.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Alcazar</termino>
+                <termino>Alcázar</termino>
+                <definicion>Casa real o habitación del príncipe, esté o no fortificada.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Algebra</termino>
+                <termino>Álgebra</termino>
+                <definicion>Parte de las matemáticas en la cual las operaciones aritméticas son generalizadas empleando números, letras y signos.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Almeja</termino>
+                <definicion>Molusco lamelibranquio marino, con valvas casi ovales, mates o poco lustrosas por fuera, con surcos concéntricos y estrías radiadas muy finas; en su interior son blanquecinas y algo nacaradas.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Ardilla</termino>
+                <definicion>Mamífero roedor, de unos 20 cm de largo, de color negro rojizo por el lomo, blanco por el vientre y con cola muy poblada.</definicion>
+            </palabra>
+        </palabras>
+    </listadefiniciones>
+
+    <listadefiniciones>
+        <letra>B</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Bosque</termino>
+                <definicion>Sitio poblado de árboles y matas.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Bala</termino>
+                <definicion>Proyectil de forma esférica o cilíndrico-ojival, generalmente de plomo o hierro.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Bruja</termino>
+                <definicion>En los cuentos infantiles tradicionales, mujer fea y malvada, que tiene poderes mágicos y que, generalmente, puede volar montada en una escoba.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Balon</termino>
+                <termino>Balón</termino>
+                <definicion>Pelota grande, usada en juegos o con fines terapéuticos.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Bar</termino>
+                <definicion>Local en que se despachan bebidas que suelen tomarse de pie, ante el mostrador.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Batalla</termino>
+                <definicion>Serie de combates de un ejército con otro</definicion>
+            </palabra>
+			<palabra>
+                <termino>Boston</termino>
+                <definicion>Capital del Estado de Massachusetts</definicion>
+            </palabra>
+            <palabra>
+                <termino>Barco</termino>
+                <definicion>Construcción cóncava de madera, hierro u otra materia, capaz de flotar en el agua y que sirve de medio de transporte.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Bigote</termino>
+                <definicion> Pelo que nace sobre el labio superior.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Botijo</termino>
+                <definicion>Vasija de barro poroso, que se usa para refrescar el agua.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Bufon</termino>
+                <termino>Bufón</termino>
+                <definicion>Personaje cómico encargado de divertir a reyes y cortesanos con chocarrerías y gestos.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Bostezar</termino>
+                <definicion>Hacer involuntariamente, abriendo mucho la boca, inspiración lenta y profunda y luego espiración, también prolongada y generalmente ruidosa.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Balneario</termino>
+                <definicion>Edificio con baños medicinales y en el cual suele darse hospedaje.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Barrabasada</termino>
+                <definicion>Travesura grave, acción atropellada.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+		
+	
+	<listadefiniciones>
+        <letra>C</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Cerveza</termino>
+                <definicion>Bebida alcohólica hecha con granos germinados de cebada u otros cereales fermentados en agua</definicion>
+            </palabra>
+            <palabra>
+                <termino>Campo</termino>
+                <definicion>Terreno de juego, localidades e instalaciones anejas donde se practican o contemplan ciertos deportes, como el fútbol.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Carro</termino>
+                <definicion>Vehículo o armazón con ruedas que se emplea para transportar objetos diversos</definicion>
+            </palabra>
+            <palabra>
+                <termino>Chicle</termino>
+                <definicion>Pastilla masticable aromatizada, que no se traga, de textura semejante a la goma.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Churro</termino>
+                <definicion>Fruta de sartén, de la misma masa que se emplea para los buñuelos y de forma cilíndrica estriada.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Chusma</termino>
+                <definicion>Muchedumbre de gente vulgar.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Cocodrilo</termino>
+                <definicion>Reptil del orden de los Emidosaurios, que alcanza de cuatro a cinco metros de largo, cubierto de escamas durísimas en forma de escudo, de color verdoso oscuro </definicion>
+            </palabra>
+            <palabra>
+                <termino>Cohete</termino>
+                <definicion>Fuego de artificio que consta de un canuto resistente cargado de pólvora y adherido al extremo de una varilla ligera.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Cigarro</termino>
+                <termino>Cigarrillo</termino>
+                <definicion>Rollo de hojas de tabaco, que se enciende por un extremo y se chupa o fuma por el opuesto</definicion>
+            </palabra>
+            <palabra>
+                <termino>Caceria</termino>
+                <termino>Cacería</termino>
+                <definicion>Partida de caza.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Canasta</termino>
+                <definicion>En baloncesto, aro metálico sujeto horizontalmente a un tablero vertical, y del que pende una red tubular sin fondo en la que es necesario introducir el balón para el enceste.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Caserio</termino>
+                <definicion>Casa de labor típica del País Vasco y Navarra.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Campana</termino>
+                <definicion>Instrumento metálico, generalmente en forma de copa invertida, que suena al ser golpeado por un badajo o por un martillo exterior.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Centauro</termino>
+                <definicion>Monstruo fingido por los antiguos, mitad hombre y mitad caballo.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>	
+
+	<listadefiniciones>
+        <letra>D</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Dragon</termino>
+                <termino>Dragón</termino>
+                <definicion>Animal fabuloso al que se atribuye forma de serpiente muy corpulenta, con pies y alas, y de extraña fiereza y voracidad.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Dardo</termino>
+                <definicion>Arma arrojadiza, semejante a una lanza pequeña y delgada, que se tira con la mano.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Diezmo</termino>
+                <definicion>Derecho del diez por ciento que se pagaba al rey sobre el valor de las mercaderías que se traficaban</definicion>
+            </palabra>
+            <palabra>
+                <termino>Deuda</termino>
+                <definicion>Obligación que alguien tiene de pagar, satisfacer o reintegrar a otra persona algo, por lo común dinero.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Dormir</termino>
+                <definicion>Estar en aquel reposo que consiste en la inacción o suspensión de los sentidos y de todo movimiento voluntario</definicion>
+            </palabra>
+            <palabra>
+                <termino>Diaspora</termino>
+                <termino>Diáspora</termino>
+                <definicion>Dispersión de grupos humanos que abandonan su lugar de origen.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Desierto</termino>
+                <definicion>Territorio arenoso o pedregoso, que por la falta casi total de lluvias carece de vegetación o la tiene muy escasa.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Deslizar</termino>
+                <definicion>Arrastrar algo con suavidad por una superficie.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Disparar</termino>
+                <definicion>En el fútbol y otros juegos, lanzar el balón con fuerza hacia la meta.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Dinastia</termino>
+                <termino>Dinastía</termino>
+                <definicion>Serie de príncipes soberanos en un determinado país, pertenecientes a una familia.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Discurso</termino>
+                <definicion>Razonamiento o exposición sobre algún tema que se lee o pronuncia en público.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Dalmata</termino>
+                <termino>Dálmata</termino>
+                <definicion>Se dice de los perros de cierta raza, caracterizados por un pelaje corto, de color blanco con pequeñas manchas oscuras.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Dosis</termino>
+                <definicion>Cantidad o porción de algo, material o inmaterial.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Divergir</termino>
+                <definicion>Dicho de dos o más líneas o superficies: Irse apartando sucesivamente unas de otras.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>E</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Eon</termino>
+                <termino>Eón</termino>
+                <definicion>Dicho de dos o más líneas o superficies: Irse apartando sucesivamente unas de otras.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Excusa</termino>
+                <definicion>Motivo o pretexto que se invoca para eludir una obligación o disculpar una omisión.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Expreso</termino>
+                <definicion>Correo extraordinario despachado con una noticia o aviso determinado.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Exito</termino>
+                <termino>Éxito</termino>
+                <definicion>Resultado feliz de un negocio, actuación, etc.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Escuela</termino>
+                <definicion>Establecimiento público donde se da a los niños la instrucción primaria.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Equipo</termino>
+                <definicion>En ciertos deportes, cada uno de los grupos que se disputan el triunfo.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Enemigo</termino>
+                <definicion>Dicho de una persona o de un país: Contrarios en una guerra.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Esquema</termino>
+                <definicion>Representación gráfica o simbólica de cosas materiales o inmateriales. </definicion>
+            </palabra>
+			<palabra>
+                <termino>Estaca</termino>
+                <definicion>Palo afilado en un extremo para clavarlo.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Empleo</termino>
+                <definicion>Ocupación, oficio.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Enfermedad</termino>
+                <definicion>Alteración más o menos grave de la salud.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Espalda</termino>
+                <definicion>Parte posterior del cuerpo humano, desde los hombros hasta la cintura.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Espada</termino>
+                <definicion>Arma blanca, larga, recta, aguda y cortante, con guarnición y empuñadura.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Euforia</termino>
+                <definicion>Sensación de bienestar, resultado de una perfecta salud o de la administración de medicamentos o drogas.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>F</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Frio</termino>
+                <definicion>Sensación que se experimenta ante un descenso de temperatura.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Fumar</termino>
+                <definicion>Aspirar y despedir el humo del tabaco</definicion>
+            </palabra>
+			<palabra>
+                <termino>Falta</termino>
+                <definicion>Infracción de las reglas de un deporte.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Femur</termino>
+                <termino>Fémur</termino>
+                <definicion>Hueso del muslo, que se articula por uno de sus extremos con el coxis y por el otro con la tibia y el peroné.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Flema</termino>
+                <definicion>Mucosidad pegajosa que se arroja por la boca, procedente de las vías respiratorias.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Fiesta</termino>
+                <definicion>Reunión de gente para celebrar algún suceso, o simplemente para divertirse.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Fabula</termino>
+                <termino>Fábula</termino>
+                <definicion>Breve relato ficticio, en prosa o verso, con intención didáctica frecuentemente manifestada en una moraleja final,</definicion>
+            </palabra>
+			<palabra>
+                <termino>Farmacia</termino>
+                <definicion>Ciencia que enseña a preparar y combinar productos naturales o artificiales como remedios de las enfermedades, o para conservar la salud.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Frigorifico</termino>
+                <termino>Frigorífico</termino>
+                <definicion>Aparato electrodoméstico, cámara o mueble que produce frío para conservar alimentos u otras sustancias.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Formula</termino>
+                <termino>Fórmula</termino>
+                <definicion>En matemáticas, ecuación o regla que relaciona objetos matemáticos o cantidades.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Flecha</termino>
+                <definicion>Arma arrojadiza compuesta de un asta delgada con una punta afilada en uno de sus extremos y en el opuesto algunas plumas cortas que sirven para que mantenga la dirección al ser disparada.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Ferreteria</termino>
+                <termino>Ferretería</termino>
+                <definicion>Tienda donde se venden diversos objetos de metal o de otras materias, como cerraduras, clavos, herramientas, vasijas, etc.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Fuerza</termino>
+                <definicion>Vigor, robustez y capacidad para mover algo o a alguien que tenga peso o haga resistencia</definicion>
+            </palabra>
+            <palabra>
+                <termino>Fotograma</termino>
+                <definicion>Cada una de las imágenes que se suceden en una película cinematográfica.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>G</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Genial</termino>
+                <definicion>Capacidad mental extraordinaria para crear o inventar cosas nuevas y admirables.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Gol</termino>
+                <definicion>En el fútbol y otros deportes, entrada del balón en la portería.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Grua</termino>
+                <termino>Grúa</termino>
+                <definicion> Máquina compuesta de un aguilón montado sobre un eje vertical giratorio, y con una o varias poleas, que sirve para levantar pesos y llevarlos de un punto a otro</definicion>
+            </palabra>
+            <palabra>
+                <termino>Gamusino</termino>
+                <definicion>Animal imaginario, cuyo nombre se usa para dar bromas a los cazadores novatos.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Galleta</termino>
+                <definicion>Pasta compuesta de harina, azúcar y a veces huevo, manteca o confituras diversas</definicion>
+            </palabra>
+            <palabra>
+                <termino>Gramatica</termino>
+                <termino>Gramática</termino>
+                <definicion>Ciencia que estudia los elementos de una lengua y sus combinaciones.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Galaxia</termino>
+                <definicion>Conjunto de gran tamaño constituido por numerosísimas estrellas, polvo interestelar, gases y partículas. </definicion>
+            </palabra>
+            <palabra>
+                <termino>Guerra</termino>
+                <definicion>Lucha armada entre dos o más naciones o entre bandos de una misma nación.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Gimnasia</termino>
+                <definicion>Arte de desarrollar, fortalecer y dar flexibilidad al cuerpo por medio de ciertos ejercicios.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Ginebra</termino>
+                <definicion>Bebida alcohólica obtenida de semillas y aromatizada con las bayas del enebro.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Granizo</termino>
+                <definicion>Agua congelada que desciende con violencia de las nubes, en granos más o menos duros y gruesos, pero no en copos como la nieve.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Guillotina</termino>
+                <definicion>Máquina inventada en Francia para decapitar a los reos de muerte.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Gomina</termino>
+                <definicion>Fijador del cabello.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Gastroenteritis</termino>
+                <definicion>Inflamación simultánea de la membrana mucosa del estómago y de la de los intestinos.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>H</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Hielo</termino>
+                <definicion>Agua convertida en cuerpo sólido y cristalino por un descenso suficiente de temperatura.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Himno</termino>
+                <definicion>Poesía cuyo objeto es exaltar a un gran hombre, celebrar una victoria u otro suceso memorable o expresar júbilo o entusiasmo.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Higado</termino>
+                <termino>Hígado</termino>
+                <definicion>Víscera voluminosa, propia de los animales vertebrados, que en los mamíferos tiene forma irregular y color rojo oscuro y está situada en la parte anterior y derecha del abdomen. Desempeña varias funciones importantes, entre ellas la secreción de la bilis.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Horda</termino>
+                <definicion>Grupo de gente que obra sin disciplina y con violencia.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Hotel</termino>
+                <definicion>Establecimiento de hostelería capaz de alojar con comodidad a huéspedes o viajeros.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Hambre</termino>
+                <definicion>Gana y necesidad de comer.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Hangar</termino>
+                <definicion>Cobertizo grande, generalmente abierto, para guarecer aparatos de aviación o dirigibles.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Herrero</termino>
+                <definicion>Hombre que tiene por oficio labrar el hierro.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Huelga</termino>
+                <definicion>Interrupción colectiva de la actividad laboral por parte de los trabajadores con el fin de reivindicar ciertas condiciones o manifestar una protesta.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Huevo</termino>
+                <definicion>Cuerpo redondeado, de tamaño y dureza variables, que producen las hembras de las aves o de otras especies animales, y que contiene el germen del embrión y las sustancias destinadas a su nutrición durante la incubación.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Hamaca</termino>
+                <definicion>Red alargada, gruesa y clara, por lo común de pita, la cual, asegurada por las extremidades en dos árboles, estacas o escarpias, queda pendiente en el aire, y sirve de cama y columpio</definicion>
+            </palabra>
+            <palabra>
+                <termino>Hereje</termino>
+                <definicion>Persona que niega alguno de los dogmas establecidos por una religión.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Harina</termino>
+                <definicion>Polvo que resulta de la molienda del trigo o de otras semillas.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Hacha</termino>
+                <definicion>Herramienta cortante, compuesta de una gruesa hoja de acero, con filo algo convexo, ojo para enastarla, y a veces con peto.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>I</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Ingenio</termino>
+                <definicion>Facultad del hombre para discurrir o inventar con prontitud y facilidad.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Ignorar</termino>
+                <definicion>No hacer caso de algo o de alguien.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Insultar</termino>
+                <definicion>Ofender a alguien provocándolo e irritándolo con palabras o acciones.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Infierno</termino>
+                <definicion>Lugar donde los condenados sufren, después de la muerte, castigo eterno.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Invierno</termino>
+                <definicion>Época más fría del año</definicion>
+            </palabra>
+            <palabra>
+                <termino>Isla</termino>
+                <definicion>Porción de tierra rodeada de agua por todas partes.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Indice</termino>
+                <termino>Índice</termino>
+                <definicion>En un libro u otra publicación, lista ordenada de los capítulos, artículos, materias, voces, etc., en él contenidos, con indicación del lugar donde aparecen.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Imagen</termino>
+                <definicion>Figura, representación, semejanza y apariencia de algo.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Ilusion</termino>
+                <definicion>Esperanza cuyo cumplimiento parece especialmente atractivo</definicion>
+            </palabra>
+            <palabra>
+                <termino>Iterar</termino>
+                <definicion>Repetir</definicion>
+            </palabra>
+			<palabra>
+                <termino>Incursion</termino>
+                <termino>Incursión</termino>
+                <definicion>Intromisión en una actividad ajena.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Iluminacion</termino>
+                <termino>Iluminación</termino>
+                <definicion>Conjunto de luces que hay en un lugar para iluminarlo o para adornarlo.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Icono</termino>
+                <definicion>En informática, representación gráfica esquemática utilizada para identificar funciones o programas.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Iglesia</termino>
+                <definicion>Templo cristiano.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>J</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Jamon</termino>
+                <termino>Jamón</termino>
+                <definicion>Pierna trasera del cerdo, curada o cocida entera.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Jarra</termino>
+                <termino>Jarrón</termino>
+                <definicion> Vasija de barro, porcelana, loza, cristal, etc., con cuello y boca anchos y una o dos asas.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Jerga</termino>
+                <definicion>Lenguaje especial y familiar que usan entre sí los individuos de ciertas profesiones y oficios.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Jinete</termino>
+                <definicion>Hombre diestro en la equitación.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Juicio</termino>
+                <definicion>Facultad del alma, por la que el hombre puede distinguir el bien del mal y lo verdadero de lo falso.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Jungla</termino>
+                <definicion>En la India y otros países de Asia y América, terreno de vegetación muy espesa.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Joven</termino>
+                <definicion>De poca edad.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Jardin</termino>
+                <termino>Jardín</termino>
+                <definicion>Terreno donde se cultivan plantas con fines ornamentales.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Joya</termino>
+                <definicion>Adorno de oro, plata o platino, con perlas o piedras preciosas o sin ellas, usado especialmente por las mujeres.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Jabalina</termino>
+                <definicion>Arma, a manera de pica o venablo, que se usaba más comúnmente en la caza mayor, y actualmente en cierto deporte.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Jienense</termino>
+                <definicion>Natural de Jaen.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Juguete</termino>
+                <definicion>Objeto atractivo con que se entretienen los niños.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Jugada</termino>
+                <definicion>Lance de juego que de este acto se origina</definicion>
+            </palabra>
+            <palabra>
+                <termino>Jocosidad</termino>
+                <definicion>Chiste, donaire.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>K</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Kalimotxo</termino>
+                <definicion>Bebida que consiste en una mezcla de vino tinto y refresco de cola.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Folk</termino>
+                <definicion>Dicho de la música moderna: Que está inspirada en temas o motivos de la música folclórica.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Sake</termino>
+                <definicion>Bebida alcohólica obtenida por fermentación del arroz.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Haiku</termino>
+                <definicion>Composición poética de origen japonés que consta de tres versos de cinco, siete y cinco sílabas respectivamente.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Kebab</termino>
+                <definicion>Masa de carne picada que, ensartada en una varilla, se asa haciéndose girar ante una fuente de calor.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Koala</termino>
+                <definicion>Mamífero marsupial arborícola parecido a un oso pequeño, propio de los eucaliptales australianos.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Vodka</termino>
+                <definicion>Especie de aguardiente que se consume mucho en Rusia.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Hockey</termino>
+                <definicion>Juego entre dos equipos, consistente en introducir en la portería contraria una pelota o un disco impulsado por un bastón curvo en su parte inferior, y que se practica en un campo de hierba o con patines en una pista de hielo u otra superficie dura.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Kiosco</termino>
+                <termino>Kiosko</termino>
+                <definicion>Construcción pequeña que se instala en la calle u otro lugar público para vender en ella periódicos, flores, etc.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Euskera</termino>
+                <definicion>Lengua hablada por parte de los naturales del País Vasco español, francés y de la comunidad de Navarra.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Karaoke</termino>
+                <definicion>Diversión consistente en interpretar una canción sobre un fondo musical grabado, mientras se sigue la letra que aparece en una pantalla.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Ketchup</termino>
+                <definicion>Salsa de tomate condimentada con vinagre, azúcar y especias.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Vikingo</termino>
+                <termino>Vikingos</termino>
+                <definicion>Se dice de los navegantes escandinavos que entre los siglos VIII y XI realizaron incursiones por las islas del Atlántico y por casi toda Europa occidental</definicion>
+            </palabra>
+            <palabra>
+                <termino>Helsinki</termino>
+                <definicion>Capital de Finlandia.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>L</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Ley</termino>
+                <definicion>Regla y norma constante e invariable de las cosas, nacida de la causa primera o de las cualidades y condiciones de las mismas.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Lupa</termino>
+                <definicion>Lente de aumento, generalmente con un mango.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Luna</termino>
+                <definicion>Único satélite natural de la Tierra.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Licor</termino>
+                <definicion>Bebida espiritosa obtenida por destilación, maceración o mezcla de diversas sustancias, y compuesta de alcohol, agua, azúcar y esencias aromáticas variadas.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Leche</termino>
+                <definicion>Líquido blanco que segregan las vacas.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Llave</termino>
+                <definicion> Instrumento, comúnmente metálico, que, introducido en una cerradura, permite activar el mecanismo que la abre y la cierra.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Ladrillo</termino>
+                <definicion>Masa de barro, en forma de paralelepípedo rectangular, que, después de cocida, sirve para construir muros, solar habitaciones</definicion>
+            </palabra>
+            <palabra>
+                <termino>Lexico</termino>
+                <termino>Léxico</termino>
+                <definicion>Vocabulario, conjunto de las palabras de un idioma, o de las que pertenecen al uso de una región, a una actividad determinada, a un campo semántico dado</definicion>
+            </palabra>
+			<palabra>
+                <termino>Libido</termino>
+                <termino>Líbido</termino>
+                <definicion>Deseo sexual, considerado por algunos autores como impulso y raíz de las más varias manifestaciones de la actividad psíquica.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Libertad</termino>
+                <definicion>Facultad natural que tiene el hombre de obrar de una manera o de otra, y de no obrar, por lo que es responsable de sus actos.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Larguero</termino>
+                <definicion>Palo superior, horizontal, de la portería del fútbol y otros deportes.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Lavadora</termino>
+                <definicion>Máquina para lavar la ropa</definicion>
+            </palabra>
+			<palabra>
+                <termino>Ladron</termino>
+                <termino>Ladrón</termino>
+                <definicion>Que hurta o roba.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Larva</termino>
+                <definicion>Animal en estado de desarrollo, cuando ha abandonado las cubiertas del huevo y es capaz de nutrirse por sí mismo, pero aún no ha adquirido la forma y la organización propia de los adultos de su especie.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>M</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Mar</termino>
+                <definicion>Masa de agua salada que cubre la mayor parte de la superficie de la Tierra.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Mono</termino>
+                <definicion>Nombre genérico con que se designa a cualquiera de los animales del suborden de los Simios.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Moco</termino>
+                <definicion>Humor espeso y pegajoso que segregan las membranas mucosas, y especialmente el que fluye por las ventanas de la nariz.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Magma</termino>
+                <definicion>Masa ígnea en fusión existente en el interior de la Tierra, que se consolida por enfriamiento.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Museo</termino>
+                <definicion>Lugar en que se guardan colecciones de objetos artísticos, científicos o de otro tipo, y en general de valor cultural, convenientemente colocados para que sean examinados.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Momia</termino>
+                <definicion>Cadáver que naturalmente o por preparación artificial se diseca con el transcurso del tiempo sin entrar en putrefacción.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Multa</termino>
+                <definicion>Sanción administrativa o penal que consiste en la obligación de pagar una cantidad determinada de dinero.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Mascara</termino>
+                <termino>Máscara</termino>
+                <definicion>Figura que representa un rostro humano, de animal o puramente imaginario, con la que una persona puede cubrirse la cara para no ser reconocida</definicion>
+            </palabra>
+			<palabra>
+                <termino>Maraca</termino>
+                <definicion>Instrumento musical suramericano, que consiste en una calabaza con granos de maíz o chinas en su interior, para acompañar el canto.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Maraton</termino>
+                <termino>Maratón</termino>
+                <definicion>En atletismo, carrera de resistencia en la que se recorre una distancia de 42 km y 195 m.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Maleta</termino>
+                <definicion>Especie de caja o cofre pequeño de cuero, lona u otras materias, que sirve para guardar en viajes o traslados ropa u otras cosas y se puede llevar a mano.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Mendigo</termino>
+                <definicion>Persona que habitualmente pide limosna.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Milagro</termino>
+                <definicion>Hecho no explicable por las leyes naturales y que se atribuye a intervención sobrenatural de origen divino.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Monologo</termino>
+                <termino>Monólogo</termino>
+                <definicion>Especie de obra dramática en que habla un solo personaje.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>N</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Nombre</termino>
+                <definicion>Palabra que designa o identifica seres animados o inanimados</definicion>
+            </palabra>
+            <palabra>
+                <termino>Nudo</termino>
+                <definicion>Lazo que se estrecha y cierra de modo que con dificultad se pueda soltar por sí solo</definicion>
+            </palabra>
+			<palabra>
+                <termino>Nectar</termino>
+                <termino>Néctar</termino>
+                <definicion>Licor suavísimo que estaba destinado al uso y regalo de los dioses.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Nomada</termino>
+                <termino>Nómada</termino>
+                <definicion>Que va de un lugar a otro sin establecer una residencia fija.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Número</termino>
+                <termino>Numero</termino>
+                <definicion>Expresión de una cantidad con relación a su unidad.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Naufragio</termino>
+                <definicion>Dicho de una embarcación: Irse a pique o perderse.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Noche</termino>
+                <definicion>Tiempo en que falta la claridad del día.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Navaja</termino>
+                <definicion>Cuchillo cuya hoja puede doblarse sobre el mango para que el filo quede guardado entre las dos cachas o en una hendidura a propósito.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Neumatico</termino>
+                <termino>Neumático</termino>
+                <definicion>Pieza de caucho con cámara de aire o sin ella, que se monta sobre la llanta de una rueda.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Nausea</termino>
+                <definicion>Gana de vomitar.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Nariz</termino>
+                <definicion>Facción saliente del rostro humano, entre la frente y la boca, con dos orificios, que comunica con el aparato respiratorio.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Nucleo</termino>
+                <definicion>Parte o punto central de algo material o inmaterial.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Nube</termino>
+                <definicion>Parte o punto central de algo material o inmaterial.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Nieve</termino>
+                <definicion>Agua helada que se desprende de las nubes en cristales sumamente pequeños, los cuales, agrupándose al caer, llegan al suelo en copos blancos.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>Ñ</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Año</termino>
+                <definicion> Tiempo que tarda la Tierra en dar una vuelta alrededor del Sol. </definicion>
+            </palabra>
+            <palabra>
+                <termino>Gañan</termino>
+                <definicion>Hombre fuerte y rudo.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Coñac</termino>
+                <definicion>Aguardiente de graduación alcohólica muy elevada, obtenido por la destilación de vinos flojos y añejado en toneles de roble.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Riñon</termino>
+                <termino>Riñón</termino>
+                <definicion>Cada una de las glándulas secretorias de la orina, que generalmente existen en número de dos.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Cuñado</termino>
+                <definicion>Hermano del cónyuge.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Puño</termino>
+                <definicion> Mano cerrada.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Baño</termino>
+                <definicion>Tela de lana muy tupida y con pelo tanto más corto cuanto más fino es el tejido.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Dueño</termino>
+                <definicion>Hombre que tiene dominio o señorío sobre alguien o algo.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Otoño</termino>
+                <definicion>Época templada del año, que en el hemisferio boreal corresponde a los meses de septiembre, octubre y noviembre, y en el austral a la primavera del hemisferio boreal.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Escaño</termino>
+                <definicion>Puesto, asiento de los parlamentarios en las Cámaras.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Logroño</termino>
+                <definicion>Capital de La Rioja.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Señal</termino>
+                <definicion>Marca o nota que se pone o hay en las cosas para darlas a conocer y distinguirlas de otras.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Campaña</termino>
+                <definicion>Campo llano sin montes ni aspereza.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Cañon</termino>
+                <termino>Cañón</termino>
+                <definicion>Pieza de artillería, de gran longitud respecto a su calibre, destinada a lanzar balas, metralla o cierta clase de proyectiles huecos.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>O</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Oda</termino>
+                <definicion>Composición poética del género lírico, que admite asuntos muy diversos y muy diferentes tonos y formas, y se divide frecuentemente en estrofas o partes iguales.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Ojo</termino>
+                <definicion>Órgano de la vista en el hombre y en los animales.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Oliva</termino>
+                <definicion>Aceituna.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Opcion</termino>
+                <termino>Opción</termino>
+                <definicion>Libertad o facultad de elegir.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Ofrenda</termino>
+                <definicion>Don que se presenta a alguien para que lo acepte.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Ordago</termino>
+                <termino>Órdago</termino>
+                <definicion>En el juego del mus, envite del resto.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Opio</termino>
+                <definicion>Sustancia estupefaciente, amarga y de olor fuerte, que resulta de la desecación del jugo que se extrae de las cabezas de adormideras verdes.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Oyente</termino>
+                <definicion>Persona asistente a un aula, no matriculada como alumno.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Orilla</termino>
+                <definicion>Término, límite o extremo de la extensión superficial de algunas cosas.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Origen</termino>
+                <definicion>Principio, nacimiento, manantial, raíz y causa de algo.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Ocelote</termino>
+                <definicion>Felino americano de cerca de un metro y medio de longitud, de pelaje de color amarillento con rayas y lunares negros en todo el cuerpo, cola anillada, orejas negras y punteadas de blanco.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Oscuridad</termino>
+                <definicion>Falta de luz para percibir las cosas.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Ovacion</termino>
+                <termino>Ovación</termino>
+                <definicion>Aplauso ruidoso que colectivamente se tributa a alguien o algo.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Opinion</termino>
+                <termino>Opinión</termino>
+                <definicion>Dictamen o juicio que se forma de algo cuestionable.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>P</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Pez</termino>
+                <definicion>Vertebrado acuático, de respiración branquial, generalmente con extremidades en forma de aleta, aptas para la locomoción y sustentación en el agua.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Pacto</termino>
+                <definicion>Concierto o tratado entre dos o más partes que se comprometen a cumplir lo estipulado.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Poesia</termino>
+                <definicion>Manifestación de la belleza o del sentimiento estético por medio de la palabra, en verso o en prosa.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Pausa</termino>
+                <definicion>Breve interrupción del movimiento, acción o ejercicio.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Parque</termino>
+                <definicion>Terreno o sitio cercado y con plantas, para caza o para recreo, generalmente inmediato a un palacio o a una población.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Pereza</termino>
+                <definicion>Flojedad, descuido o tardanza en las acciones o movimientos.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Prueba</termino>
+                <definicion>Razón, argumento, instrumento u otro medio con que se pretende mostrar y hacer patente la verdad o falsedad de algo.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Paladin</termino>
+                <termino>Paladín</termino>
+                <definicion>Caballero fuerte y valeroso que, voluntario en la guerra, se distingue por sus hazañas.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Pionero</termino>
+                <definicion>Persona que da los primeros pasos en alguna actividad humana.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Paraguas</termino>
+                <definicion>Utensilio portátil para resguardarse de la lluvia, compuesto de un eje y un varillaje cubierto de tela que puede extenderse o plegarse.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Parasito</termino>
+                <termino>Parásito</termino>
+                <definicion>Dicho de un organismo animal o vegetal: Que vive a costa de otro de distinta especie, alimentándose de él y depauperándolo sin llegar a matarlo</definicion>
+            </palabra>
+            <palabra>
+                <termino>Pedestal</termino>
+                <definicion>Cuerpo sólido, de forma cilíndrica o de paralelepípedo rectangular, que sostiene una columna, estatua, etc.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Palindromo</termino>
+                <termino>Palíndromo</termino>
+                <definicion>Palabra o frase que se lee igual de izquierda a derecha, que de derecha a izquierda</definicion>
+            </palabra>
+            <palabra>
+                <termino>Paciencia</termino>
+                <definicion>Capacidad de padecer o soportar algo sin alterarse.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>Q</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Queso</termino>
+                <definicion>Producto obtenido por maduración de la cuajada de la leche con características propias para cada uno de los tipos según su origen o método de fabricación.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Raqueta</termino>
+                <definicion>Bastidor con mango que sujeta una red o pergamino, o ambas cosas, y que se emplea como pala en el juego del volante, de la pelota y otros semejantes, como el tenis.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Quirofano</termino>
+                <termino>Quirófano</termino>
+                <definicion>Local convenientemente acondicionado para hacer operaciones quirúrgicas de manera que puedan presenciarse al través de una separación de cristal.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Enloquecer</termino>
+                <definicion>Volverse loco, perder el juicio.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Jaqueca</termino>
+                <definicion>Cefalea recurrente e intensa, localizada en un lado de la cabeza y relacionada con alteraciones vasculares del cerebro.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Esquilar</termino>
+                <definicion>Cortar el pelo, vellón o lana de los ganados y otros animales.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Aniquilar</termino>
+                <definicion>Destruir o arruinar enteramente.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Banquillo</termino>
+                <definicion>Lugar de espera de los jugadores reservas y entrenadores, fuera del juego.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Inquilino</termino>
+                <definicion>Persona que ha tomado una casa o parte de ella en alquiler para habitarla.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Equilatero</termino>
+                <termino>Equilátero</termino>
+                <definicion>Dicho de una figura, especialmente de un triángulo: Que tiene todos sus lados iguales entre sí.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Equilibrio</termino>
+                <definicion>Estado de un cuerpo cuando fuerzas encontradas que obran en él se compensan destruyéndose mutuamente.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Maquillar</termino>
+                <definicion>Aplicar cosméticos a una persona, o a su rostro.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Alquimia</termino>
+                <definicion>Conjunto de especulaciones y experiencias, generalmente de carácter esotérico, relativas a las transmutaciones de la materia, que influyó en el origen de la ciencia química. </definicion>
+            </palabra>
+            <palabra>
+                <termino>Esquimal</termino>
+                <definicion>Se dice del pueblo de raza mongólica que, en pequeños grupos dispersos, habita la margen ártica de América del Norte, de Groenlandia y de Asia.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>R</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Risa</termino>
+                <definicion>Movimiento de la boca y otras partes del rostro, que demuestra alegría.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Rubi</termino>
+                <termino>Rubí</termino>
+                <definicion>Mineral cristalizado, más duro que el acero, de color rojo y brillo intenso.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Rabia</termino>
+                <definicion>Enfermedad que se produce en algunos animales y se transmite por mordedura a otros o al hombre</definicion>
+            </palabra>
+            <palabra>
+                <termino>Regla</termino>
+                <definicion>Instrumento de madera, metal u otra materia rígida, por lo común de poco grueso y de forma rectangular, que sirve principalmente para trazar líneas rectas, o para medir la distancia entre dos puntos.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Ritmo</termino>
+                <definicion>Orden acompasado en la sucesión o acaecimiento de las cosas.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Rueda</termino>
+                <definicion>Pieza mecánica en forma de disco que gira alrededor de un eje.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Rap</termino>
+                <definicion>Estilo musical de origen afroamericano en que, con un ritmo sincopado, la letra, de carácter provocador, es más recitada que cantada.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Ron</termino>
+                <definicion>Bebida alcohólica obtenida por fermentación de la caña de azúcar.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Rumbo</termino>
+                <definicion>Dirección considerada o trazada en el plano del horizonte, y principalmente cualquiera de las comprendidas en la rosa náutica.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Regalo</termino>
+                <definicion>Dádiva que se hace voluntariamente o por costumbre.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Ritual</termino>
+                <definicion>Conjunto de ritos de una religión, de una iglesia o de una función sagrada.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Rutina</termino>
+                <definicion>Hábito adquirido de hacer las cosas por mera práctica y sin razonarlas.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Reclamo</termino>
+                <definicion>Instrumento para llamar a las aves en la caza imitando su voz.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Relampago</termino>
+                <termino>Relámpago</termino>
+                <definicion>Resplandor vivísimo e instantáneo producido en las nubes por una descarga eléctrica.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>S</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Sofa</termino>
+                <termino>Sofá</termino>
+                <definicion>Asiento cómodo para dos o más personas, que tiene respaldo y brazos.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Sarten</termino>
+                <termino>Sartén</termino>
+                <definicion> Recipiente de cocina, generalmente de metal, de forma circular, poco hondo y con mango largo, que sirve para guisar.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Secta</termino>
+                <definicion>Conjunto de seguidores de una parcialidad religiosa o ideológica.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Suelo</termino>
+                <definicion>Sitio o solar de un edificio.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Sangre</termino>
+                <definicion> Líquido, generalmente de color rojo, que circula por las arterias y venas del cuerpo de los animales.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Satira</termino>
+                <termino>Sátira</termino>
+                <definicion>Composición poética u otro escrito cuyo objeto es censurar acremente o poner en ridículo a alguien o algo.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Sombra</termino>
+                <definicion>Oscuridad, falta de luz, más o menos completa.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Sierra</termino>
+                <definicion>Herramienta para cortar madera u otros objetos duros, que generalmente consiste en una hoja de acero dentada sujeta a una empuñadura.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Silbato</termino>
+                <definicion>Instrumento pequeño y hueco que se hace de diferentes modos y de diversas materias, y que soplando en él con fuerza suena como el silbo. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ </definicion>
+            </palabra>
+            <palabra>
+                <termino>Sueño</termino>
+                <definicion>Acto de representarse en la fantasía de alguien, mientras duerme, sucesos o imágenes.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Suerte</termino>
+                <definicion>Encadenamiento de los sucesos, considerado como fortuito o casual.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Silencio</termino>
+                <definicion>Falta de ruido.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Springfield</termino>
+                <definicion>Nombre de la ciudad en donde la serie de televisión de dibujos animados estadounidense Los Simpson está ambientada</definicion>
+            </palabra>
+            <palabra>
+                <termino>Silicona</termino>
+                <definicion>Polímero químicamente inerte, utilizado como adhesivo en la fabricación de prótesis y en otras aplicaciones.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>T</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Trola</termino>
+                <definicion>Engaño, falsedad, mentira.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Tibia</termino>
+                <definicion>Hueso principal y anterior de la pierna, que se articula con el fémur, el peroné y el astrágalo.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Tecla</termino>
+                <definicion>Cada una de las piezas que, por la presión de los dedos, hacen sonar ciertos instrumentos musicales.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Tiempo</termino>
+                <definicion>Magnitud física que permite ordenar la secuencia de los sucesos, estableciendo un pasado, un presente y un futuro.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Torso</termino>
+                <definicion>Tronco del cuerpo humano.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Tuberia</termino>
+                <termino>Tubería</termino>
+                <definicion>Conducto formado de tubos por donde se lleva el agua, los gases combustibles,</definicion>
+            </palabra>
+			<palabra>
+                <termino>Tanque</termino>
+                <definicion>Depósito montado sobre ruedas para su transporte.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Templo</termino>
+                <definicion>Edificio o lugar destinado pública y exclusivamente a un culto.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Tiesto</termino>
+                <definicion>Recipiente de barro para criar plantas</definicion>
+            </palabra>
+            <palabra>
+                <termino>Tirano</termino>
+                <definicion>Dicho de una persona: Que obtiene contra derecho el gobierno de un Estado, especialmente si lo rige sin justicia y a medida de su voluntad.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Titere</termino>
+                <termino>Títere</termino>
+                <definicion>Muñeco de pasta u otra materia que se mueve por medio de hilos u otro procedimiento.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Torre</termino>
+                <definicion>Edificio fuerte, más alto que ancho, y que sirve para defenderse de los enemigos desde él, o para defender una ciudad o plaza.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Tuerca</termino>
+                <definicion>Pieza con un hueco labrado en espiral que ajusta exactamente en el filete de un tornillo.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Tactica</termino>
+                <termino>Táctica</termino>
+                <definicion>Método o sistema para ejecutar o conseguir algo.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>U</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Urbe</termino>
+                <definicion>Ciudad, especialmente la muy populosa.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Utopia</termino>
+                <termino>Utopía</termino>
+                <definicion>Plan, proyecto, doctrina o sistema optimista que aparece como irrealizable en el momento de su formulación.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Urraca</termino>
+                <definicion>Pájaro que tiene cerca de medio metro de largo y unos seis decímetros de envergadura, con pico y pies negruzcos, y plumaje blanco en el vientre y arranque de las alas, y negro con reflejos metálicos en el resto del cuerpo.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Usurpar</termino>
+                <definicion>Apoderarse de una propiedad o de un derecho que legítimamente pertenece a otro, por lo general con violencia.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Umbral</termino>
+                <definicion>Parte inferior o escalón, por lo común de piedra y contrapuesto al dintel, en la puerta o entrada de una casa.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Urdir</termino>
+                <definicion>Maquinar y disponer cautelosamente algo contra alguien, o para la consecución de algún designio.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Unicelular</termino>
+                <definicion>Que consta de una sola célula.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Universidad</termino>
+                <definicion>Institución de enseñanza superior que comprende diversas facultades, y que confiere los grados académicos correspondientes.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Ultravioelta</termino>
+                <definicion>Se dice de la radiación electromagnética que se encuentra entre el extremo violado del espectro visible y los rayos X y provoca reacciones químicas de gran repercusión biológica.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Usufructo</termino>
+                <definicion>Derecho a disfrutar bienes ajenos con la obligación de conservarlos, salvo que la ley autorice otra cosa.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Ultrasonico</termino>
+                <termino>Ultrasónico</termino>
+                <definicion>Perteneciente o relativo al ultrasonido.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Ultimar</termino>
+                <definicion>Dar fin a algo, acabarlo, concluirlo.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Urano</termino>
+                <definicion>Séptimo planeta del Sistema Solar.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Unidad</termino>
+                <definicion>Singularidad en número o calidad.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>V</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Vena</termino>
+                <definicion>Cada uno de los vasos o conductos por donde retorna la sangre al corazón.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Vaso</termino>
+                <definicion>Recipiente de metal, vidrio u otra materia, por lo común de forma cilíndrica, que sirve para beber.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Vida</termino>
+                <definicion>Fuerza o actividad interna sustancial, mediante la que obra el ser que la posee.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Vaca</termino>
+                <definicion>Hembra del toro.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Violin</termino>
+                <termino>Violín</termino>
+                <definicion>Instrumento musical de cuerda, el más pequeño y agudo entre los de su clase, que se compone de una caja de resonancia en forma de ocho, un mástil sin trastes y cuatro cuerdas que se hacen sonar con un arco.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Veneno</termino>
+                <definicion>Sustancia que, incorporada a un ser vivo en pequeñas cantidades, es capaz de producir graves alteraciones funcionales, e incluso la muerte.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Vino</termino>
+                <definicion>Licor alcohólico que se hace del zumo de las uvas exprimido, y cocido naturalmente por la fermentación.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Vivero</termino>
+                <definicion>Terreno adonde se trasplantan desde la almáciga los árboles pequeños, para transponerlos, después de recriados, a su lugar definitivo.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Volcan</termino>
+                <termino>Volcán</termino>
+                <definicion>Abertura en la tierra, y más comúnmente en una montaña, por donde salen de tiempo en tiempo humo, llamas y materias encendidas o derretidas.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Vampiro</termino>
+                <definicion>Espectro o cadáver que, según cree el vulgo de ciertos países, va por las noches a chupar poco a poco la sangre de los vivos hasta matarlos.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Vestido</termino>
+                <definicion>Prenda o conjunto de prendas exteriores con que se cubre el cuerpo.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Viscera</termino>
+                <definicion>Cada uno de los órganos contenidos en las principales cavidades del cuerpo humano y de los animales.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Ventilador</termino>
+                <definicion>Instrumento o aparato que impulsa o remueve el aire en una habitación.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Verruga</termino>
+                <definicion>Excrecencia cutánea por lo general redonda.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>W</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Whisky</termino>
+                <definicion> Licor alcohólico que se obtiene del grano de algunas plantas, destilando un compuesto amiláceo en estado de fermentación.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Halloween</termino>
+                <definicion>Fiesta que se celebra internacionalmente en la noche del 31 de Octubre también conocida como "Noche de las brujas"</definicion>
+            </palabra>
+			<palabra>
+                <termino>Waterpolo</termino>
+                <definicion>Juego practicado en una piscina entre dos equipos de siete jugadores cada uno, que consiste en introducir el balón con la mano en la portería contraria mientras se nada.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Western</termino>
+                <definicion>Género cinematográfico típico del cine estadounidense que se ambienta en el viejo Oeste estadounidense.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Windsurf</termino>
+                <definicion>Deporte que consiste en desplazarse en el agua sobre una tabla algo similar a una de surf, provista de una vela.</definicion>
+            </palabra>
+            <palabra>
+                <termino>William Wallace</termino>
+                <definicion>Soldado escocés, de ascendencia galesa, que dirigió a su país contra la ocupación inglesa del Rey Eduardo I de Inglaterra en las Guerra de la independencia de Escocia.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Jack Sparrow</termino>
+                <definicion>Protagonista de la serie cinematográfica "Piratas del Caribe" interpretado por el actor Johnny Depp.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Charles Darwin</termino>
+                <definicion>Naturalista inglés que postuló que todas las especies de seres vivos han evolucionado con el tiempo a partir de un antepasado común mediante un proceso denominado selección natural.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Ottawa</termino>
+                <definicion>Capital de Cánada</definicion>
+            </palabra>
+            <palabra>
+                <termino>Windows</termino>
+                <definicion>Nombre de una familia de sistemas operativos desarrollados y vendidos por Microsoft.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Warner Bros</termino>
+                <definicion>Compañía estadounidense que es una de las más grandes productoras de cine y televisión en el mundo. Es actualmente una filial del conglomerado Time Warner</definicion>
+            </palabra>
+            <palabra>
+                <termino>Wilson Fisk</termino>
+                <definicion>Nombre del personaje ficticio de Marvel Comics apodado Kingpin que es enemigo de Spider-Man, Daredevil, y Punisher</definicion>
+            </palabra>
+			<palabra>
+                <termino>Hardware</termino>
+                <definicion>Conjunto de los componentes que integran la parte material de una computadora.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Sandwich</termino>
+                <definicion>Emparedado hecho con dos rebanadas de pan de molde entre las que se coloca jamón, queso, embutido, vegetales u otros alimentos.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>X</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Xilofono</termino>
+                <termino>Xilófono</termino>
+                <definicion>Instrumento musical de percusión formado por láminas generalmente de madera, ordenadas horizontalmente según su tamaño y sonido, que se hacen sonar golpeándolas con dos baquetas.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Xenofobia</termino>
+                <definicion>Odio, repugnancia u hostilidad hacia los extranjeros.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Exactitud</termino>
+                <definicion>Puntualidad y fidelidad en la ejecución de algo.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Exacerbar</termino>
+                <definicion>Agravar o avivar una enfermedad, una pasión, una molestia, etc.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Exaltar</termino>
+                <definicion>Elevar a alguien o algo a gran auge o dignidad.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Anexar</termino>
+                <definicion>Unir o agregar algo a otra cosa con dependencia de ella.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Axila</termino>
+                <definicion>Ángulo formado por la articulación de cualquiera de las partes de la planta con el tronco o la rama.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Oxido</termino>
+                <termino>Óxido</termino>
+                <definicion>Capa, de diversos colores, que se forma en la superficie de los metales por oxidación, como el orín.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Elixir</termino>
+                <definicion>Medicamento o remedio maravilloso.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Eximir</termino>
+                <definicion> Librar, desembarazar de cargas, obligaciones, cuidados, culpas, etc.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Toxicidad</termino>
+                <definicion>Grado de efectividad de una sustancia tóxica.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Exito</termino>
+                <termino>Éxito</termino>
+                <definicion>Resultado feliz de un negocio, actuación, etc.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Oxigeno</termino>
+                <termino>Oxígeno</termino>
+                <definicion>Elemento químico de número atómico 8. Muy abundante en la corteza terrestre, constituye casi una quinta parte del aire atmosférico en su forma molecular O2.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Flexion</termino>
+                <termino>Flexión</termino>
+                <definicion>Acción y efecto de doblar el cuerpo o algún miembro.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>Y</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Yogur</termino>
+                <definicion>Variedad de leche fermentada, que se prepara reduciéndola por evaporación a la mitad de su volumen y sometiéndola después a la acción de un fermento denominado maya.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Yate</termino>
+                <definicion>Embarcación de gala o de recreo.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Yegua</termino>
+                <definicion>Hembra del caballo.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Yacimiento</termino>
+                <definicion>Sitio donde se halla naturalmente una roca, un mineral o un fósil.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Raya</termino>
+                <definicion>Línea o señal larga y estrecha que por combinación de un color con otro, por pliegue o por hendidura poco profunda, se hace o se forma natural o artificialmente en un cuerpo cualquiera.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Playa</termino>
+                <definicion>Ribera del mar o de un río grande, formada de arenales en superficie casi plana.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Apoyar</termino>
+                <definicion>Hacer que algo descanse sobre otra cosa.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Ensayar</termino>
+                <definicion>Probar, reconocer algo antes de usarlo.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Nueva York</termino>
+                <termino>New York</termino>
+                <definicion>Ciudad en la que se encuentra la estatua de la libertad</definicion>
+            </palabra>
+            <palabra>
+                <termino>Hank Moody</termino>
+                <definicion>Protagonista de la serie Californication</definicion>
+            </palabra>
+			<palabra>
+                <termino>Youtube</termino>
+                <definicion>Sitio web que permite a los usuarios subir y compartir videos</definicion>
+            </palabra>
+            <palabra>
+                <termino>Castilla y Leon</termino>
+                <termino>Castilla y León</termino>
+                <definicion>Provincia española cuya capital es Valladolid</definicion>
+            </palabra>
+			<palabra>
+                <termino>Apellido del actual presidente de España</termino>
+                <definicion>Rajoy</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+	
+	<listadefiniciones>
+        <letra>Z</letra> <!-- letra del alfabeto al que corresponde -->
+        <palabras>
+            <palabra>
+                <termino>Zanja</termino>
+                <definicion>Excavación larga y estrecha que se hace en la tierra para echar los cimientos, conducir las aguas, defender los sembrados o cosas semejantes.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Zarpa</termino>
+                <definicion>Mano de ciertos animales cuyos dedos no se mueven con independencia unos de otros, como en el león y el tigre.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Zumbar</termino>
+                <definicion>Producir ruido o sonido continuado y bronco, como el que se produce a veces dentro de los mismos oídos.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Zafiro</termino>
+                <definicion>Piedra preciosa de color azul</definicion>
+            </palabra>
+			<palabra>
+                <termino>Zapato</termino>
+                <definicion>Calzado que no pasa del tobillo, con la parte inferior de suela y lo demás de piel, fieltro, paño u otro tejido, más o menos escotado por el empeine.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Zangano</termino>
+                <termino>Zángano</termino>
+                <definicion>Macho de la abeja maestra o reina.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Zumo</termino>
+                <definicion>Líquido de las hierbas, flores, frutas u otras cosas semejantes, que se saca exprimiéndolas o majándolas.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Zoo</termino>
+                <definicion>Lugar en que se conservan, cuidan y a veces se crían diversas especies animales con fines didácticos o de entretenimiento.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Zamora</termino>
+                <definicion>Título otorgado por el diario deportivo español Marca, al portero de fútbol menos goleado de la Primera División de España</definicion>
+            </palabra>
+            <palabra>
+                <termino>Zambullir</termino>
+                <definicion>Meter debajo del agua con ímpetu o de golpe.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Zozobra</termino>
+                <definicion>Inquietud, aflicción y congoja del ánimo, que no deja sosegar, o por el riesgo que amenaza, o por el mal que ya se padece.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Zurcir</termino>
+                <definicion>Coser la rotura de una tela, juntando los pedazos con puntadas o pasos ordenados, de modo que la unión resulte disimulada.</definicion>
+            </palabra>
+			<palabra>
+                <termino>Zar</termino>
+                <definicion>Título que se daba al emperador de Rusia y al soberano de Bulgaria.</definicion>
+            </palabra>
+            <palabra>
+                <termino>Zorro</termino>
+                <definicion>Mamífero cánido de menos de un metro de longitud, incluida la cola, de hocico alargado y orejas empinadas, pelaje de color pardo rojizo y muy espeso, especialmente en la cola, de punta blanca.</definicion>
+            </palabra>
+		</palabras>	
+    </listadefiniciones>
+</diccionario>  
